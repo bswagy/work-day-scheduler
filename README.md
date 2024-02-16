@@ -15,7 +15,7 @@ This is the completed work day scheduler, implementing javascript,css, and html 
 ## Learning Points
  Used javascript and HTML/CSS to make work day scheduler to plan out the work day.
 * utilizing jquery
-* messing more with the save to local starage feature
+* messing more with the save to local storage feature
 *  using event listeners                                                           
 
 
