@@ -6,8 +6,8 @@ Javascript,GIT, CSS, HTML
 
 ---
 ## Description
-This is the completed work day scheduler, implementing javascript,css, and html to make a functiong work day planner for average 9-5 work day.
-[visit the deployed site]( )
+This is the completed work day scheduler, implementing javascript,css, and html to make a work day planner for an average 9-5 work day.
+[visit the deployed site]( https://bswagy.github.io/work-day-scheduler/)
 
 ![Alt text](<Screenshot 2024-02-15 at 9.40.17 PM.png>) 
 
